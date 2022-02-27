@@ -6,6 +6,11 @@ __pycache__/
 # C extensions
 *.so
 
+# Files to ignore
+Practice.ipynb
+index.html
+
+
 # Distribution / packaging
 .Python
 build/
